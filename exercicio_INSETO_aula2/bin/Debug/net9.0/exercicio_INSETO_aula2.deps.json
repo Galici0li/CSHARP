@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "exercicio_INSETO_aula2/1.0.0": {
+        "runtime": {
+          "exercicio_INSETO_aula2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio_INSETO_aula2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

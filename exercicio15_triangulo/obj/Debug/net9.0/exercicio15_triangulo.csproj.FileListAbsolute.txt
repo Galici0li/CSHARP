@@ -1,0 +1,14 @@
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\bin\Debug\net9.0\exercicio15_triangulo.exe
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\bin\Debug\net9.0\exercicio15_triangulo.deps.json
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\bin\Debug\net9.0\exercicio15_triangulo.runtimeconfig.json
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\bin\Debug\net9.0\exercicio15_triangulo.dll
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\bin\Debug\net9.0\exercicio15_triangulo.pdb
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\exercicio15_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\exercicio15_triangulo.AssemblyInfoInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\exercicio15_triangulo.AssemblyInfo.cs
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\exercicio15_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\exercicio15_triangulo.dll
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\refint\exercicio15_triangulo.dll
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\exercicio15_triangulo.pdb
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\exercicio15_triangulo.genruntimeconfig.cache
+C:\Users\leticia.galicioli\Documents\C#\exercicio15_triangulo\obj\Debug\net9.0\ref\exercicio15_triangulo.dll

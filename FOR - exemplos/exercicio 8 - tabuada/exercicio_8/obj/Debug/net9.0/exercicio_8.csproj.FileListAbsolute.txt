@@ -1,0 +1,14 @@
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\bin\Debug\net9.0\exercicio_8.exe
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\bin\Debug\net9.0\exercicio_8.deps.json
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\bin\Debug\net9.0\exercicio_8.runtimeconfig.json
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\bin\Debug\net9.0\exercicio_8.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\bin\Debug\net9.0\exercicio_8.pdb
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\exercicio_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\exercicio_8.AssemblyInfoInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\exercicio_8.AssemblyInfo.cs
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\exercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\exercicio_8.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\refint\exercicio_8.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\exercicio_8.pdb
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\exercicio_8.genruntimeconfig.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2\exercicio_8\obj\Debug\net9.0\ref\exercicio_8.dll

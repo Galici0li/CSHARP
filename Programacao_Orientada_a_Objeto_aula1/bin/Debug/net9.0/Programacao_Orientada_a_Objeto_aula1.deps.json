@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Programacao_Orientada_a_Objeto_aula1/1.0.0": {
+        "runtime": {
+          "Programacao_Orientada_a_Objeto_aula1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programacao_Orientada_a_Objeto_aula1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\bin\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.exe
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\bin\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.deps.json
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\bin\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.runtimeconfig.json
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\bin\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.dll
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\bin\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.pdb
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.AssemblyInfoInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.AssemblyInfo.cs
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.csproj.CoreCompileInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.dll
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\refint\Programacao_Orientada_a_Objeto_aula1.dll
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.pdb
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\Programacao_Orientada_a_Objeto_aula1.genruntimeconfig.cache
+C:\Users\leticia.galicioli\Documents\C#\Programacao_Orientada_a_Objeto_aula1\obj\Debug\net9.0\ref\Programacao_Orientada_a_Objeto_aula1.dll
