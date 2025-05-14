@@ -1,0 +1,14 @@
+C:\Users\leticia.galicioli\Documents\C#\aula_2\bin\Debug\net9.0\aula_2.exe
+C:\Users\leticia.galicioli\Documents\C#\aula_2\bin\Debug\net9.0\aula_2.deps.json
+C:\Users\leticia.galicioli\Documents\C#\aula_2\bin\Debug\net9.0\aula_2.runtimeconfig.json
+C:\Users\leticia.galicioli\Documents\C#\aula_2\bin\Debug\net9.0\aula_2.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2\bin\Debug\net9.0\aula_2.pdb
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\aula_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\aula_2.AssemblyInfoInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\aula_2.AssemblyInfo.cs
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\aula_2.csproj.CoreCompileInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\aula_2.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\refint\aula_2.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\aula_2.pdb
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\aula_2.genruntimeconfig.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2\obj\Debug\net9.0\ref\aula_2.dll

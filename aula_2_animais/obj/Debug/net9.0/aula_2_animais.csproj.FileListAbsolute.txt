@@ -1,0 +1,14 @@
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\bin\Debug\net9.0\aula_2_animais.exe
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\bin\Debug\net9.0\aula_2_animais.deps.json
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\bin\Debug\net9.0\aula_2_animais.runtimeconfig.json
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\bin\Debug\net9.0\aula_2_animais.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\bin\Debug\net9.0\aula_2_animais.pdb
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\aula_2_animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\aula_2_animais.AssemblyInfoInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\aula_2_animais.AssemblyInfo.cs
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\aula_2_animais.csproj.CoreCompileInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\aula_2_animais.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\refint\aula_2_animais.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\aula_2_animais.pdb
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\aula_2_animais.genruntimeconfig.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_2_animais\obj\Debug\net9.0\ref\aula_2_animais.dll

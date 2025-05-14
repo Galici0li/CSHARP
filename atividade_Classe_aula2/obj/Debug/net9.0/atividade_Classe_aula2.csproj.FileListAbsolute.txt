@@ -1,0 +1,14 @@
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\bin\Debug\net9.0\atividade_Classe_aula2.exe
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\bin\Debug\net9.0\atividade_Classe_aula2.deps.json
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\bin\Debug\net9.0\atividade_Classe_aula2.runtimeconfig.json
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\bin\Debug\net9.0\atividade_Classe_aula2.dll
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\bin\Debug\net9.0\atividade_Classe_aula2.pdb
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\atividade_Classe_aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\atividade_Classe_aula2.AssemblyInfoInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\atividade_Classe_aula2.AssemblyInfo.cs
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\atividade_Classe_aula2.csproj.CoreCompileInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\atividade_Classe_aula2.dll
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\refint\atividade_Classe_aula2.dll
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\atividade_Classe_aula2.pdb
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\atividade_Classe_aula2.genruntimeconfig.cache
+C:\Users\leticia.galicioli\Documents\C#\atividade_Classe_aula2\obj\Debug\net9.0\ref\atividade_Classe_aula2.dll
