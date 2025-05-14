@@ -1,0 +1,14 @@
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\bin\Debug\net9.0\aula_3_REVISAO_POO.exe
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\bin\Debug\net9.0\aula_3_REVISAO_POO.deps.json
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\bin\Debug\net9.0\aula_3_REVISAO_POO.runtimeconfig.json
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\bin\Debug\net9.0\aula_3_REVISAO_POO.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\bin\Debug\net9.0\aula_3_REVISAO_POO.pdb
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\aula_3_REVISAO_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\aula_3_REVISAO_POO.AssemblyInfoInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\aula_3_REVISAO_POO.AssemblyInfo.cs
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\aula_3_REVISAO_POO.csproj.CoreCompileInputs.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\aula_3_REVISAO_POO.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\refint\aula_3_REVISAO_POO.dll
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\aula_3_REVISAO_POO.pdb
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\aula_3_REVISAO_POO.genruntimeconfig.cache
+C:\Users\leticia.galicioli\Documents\C#\aula_3_REVISAO_POO\obj\Debug\net9.0\ref\aula_3_REVISAO_POO.dll
