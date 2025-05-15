@@ -1,0 +1,14 @@
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\bin\Debug\net9.0\aula4_CRUD_List.exe
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\bin\Debug\net9.0\aula4_CRUD_List.deps.json
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\bin\Debug\net9.0\aula4_CRUD_List.runtimeconfig.json
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\bin\Debug\net9.0\aula4_CRUD_List.dll
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\bin\Debug\net9.0\aula4_CRUD_List.pdb
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\aula4_CRUD_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\aula4_CRUD_List.AssemblyInfoInputs.cache
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\aula4_CRUD_List.AssemblyInfo.cs
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\aula4_CRUD_List.csproj.CoreCompileInputs.cache
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\aula4_CRUD_List.dll
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\refint\aula4_CRUD_List.dll
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\aula4_CRUD_List.pdb
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\aula4_CRUD_List.genruntimeconfig.cache
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula4_CRUD_List\obj\Debug\net9.0\ref\aula4_CRUD_List.dll
