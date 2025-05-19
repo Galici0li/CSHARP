@@ -1,0 +1,14 @@
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\bin\Debug\net9.0\aula_MVC.exe
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\bin\Debug\net9.0\aula_MVC.deps.json
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\bin\Debug\net9.0\aula_MVC.runtimeconfig.json
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\bin\Debug\net9.0\aula_MVC.dll
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\bin\Debug\net9.0\aula_MVC.pdb
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\aula_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\aula_MVC.AssemblyInfoInputs.cache
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\aula_MVC.AssemblyInfo.cs
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\aula_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\aula_MVC.dll
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\refint\aula_MVC.dll
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\aula_MVC.pdb
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\aula_MVC.genruntimeconfig.cache
+C:\Users\Leticia Galicioli\Desktop\JP\C#\aula_MVC\obj\Debug\net9.0\ref\aula_MVC.dll
